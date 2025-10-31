@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Large video files (don’t upload to GitHub)
+*.mov
+*.mp4
+*.avi
+
+# System files
+.DS_Store
+Thumbs.db
